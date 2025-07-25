@@ -21,7 +21,7 @@ To run the Speech Recognition Assistant, follow these steps:
 
 1. Clone the repository:
    ```shell
-   git clone(https://github.com/AbinandhMJ/Python-ALEXA-SpeechRecognition-Assistant)
+   git clone(https://github.com/likitha4444/Python-ALEXA-SpeechRecognition-Assistant)
 2. Navigate to the project directory:
    `` cd Speech-Recognition-Assistant
    ``
